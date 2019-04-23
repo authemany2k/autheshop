@@ -1,0 +1,638 @@
+[19-Mar-2018 12:43:01 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[19-Mar-2018 12:43:07 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[19-Mar-2018 12:43:58 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[19-Mar-2018 12:44:00 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[19-Mar-2018 12:44:13 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[19-Mar-2018 12:44:51 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[19-Mar-2018 12:46:41 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[19-Mar-2018 12:46:53 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[19-Mar-2018 12:47:39 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[19-Mar-2018 12:47:52 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[19-Mar-2018 12:48:40 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[19-Mar-2018 12:48:44 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[19-Mar-2018 13:03:43 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[19-Mar-2018 13:03:45 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[19-Mar-2018 13:03:47 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[19-Mar-2018 13:03:48 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[19-Mar-2018 13:03:50 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[19-Mar-2018 13:03:52 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[19-Mar-2018 13:04:04 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[19-Mar-2018 13:23:45 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[19-Mar-2018 13:23:51 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[19-Mar-2018 13:26:34 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[19-Mar-2018 13:36:08 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[19-Mar-2018 13:36:14 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[19-Mar-2018 13:36:30 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[19-Mar-2018 13:50:21 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[19-Mar-2018 13:50:25 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[19-Mar-2018 13:50:27 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[19-Mar-2018 13:50:56 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[19-Mar-2018 14:15:40 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[19-Mar-2018 15:09:05 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[23-Mar-2018 17:47:06 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[23-Mar-2018 17:47:11 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[23-Mar-2018 17:47:17 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[23-Mar-2018 17:48:35 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[23-Mar-2018 17:48:37 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[23-Mar-2018 17:48:39 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[23-Mar-2018 17:48:51 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[23-Mar-2018 17:48:58 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[23-Mar-2018 17:49:09 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[23-Mar-2018 17:51:35 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[23-Mar-2018 18:01:19 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 11:32:54 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 11:33:08 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 11:35:59 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 11:36:02 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 11:39:36 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 11:39:40 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 11:41:21 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 11:41:26 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 11:41:30 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 11:42:27 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 11:42:30 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 11:44:11 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 11:44:15 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 12:06:42 Africa/Lagos] PHP Fatal error:  Declaration of App\Shop\Sellers\Repositories\SellerRepository::searchSeller(string $text): App\Shop\Sellers\Repositories\Collection must be compatible with App\Shop\Sellers\Repositories\Interfaces\SellerRepositoryInterface::searchSeller(string $text): App\Shop\Sellers\Repositories\Interfaces\Collection in /home/pfifu2jdr044/public_html/authemanshop.com/app/Shop/Sellers/Repositories/SellerRepository.php on line 12
+[24-Mar-2018 12:08:08 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 12:08:11 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 12:08:13 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 12:14:30 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 12:14:32 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 12:14:35 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 12:14:40 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 12:14:44 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 12:23:10 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 12:25:19 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 12:25:22 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 12:25:59 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 12:26:32 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 12:26:37 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 12:28:32 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 12:28:36 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 12:28:40 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 12:32:13 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 12:32:18 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 12:34:44 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 12:34:54 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 12:34:59 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 12:35:01 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 12:35:14 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 12:35:31 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 12:36:02 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 12:38:49 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 12:40:38 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 12:43:35 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 12:43:42 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 12:44:51 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 13:14:36 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[24-Mar-2018 15:07:42 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[25-Mar-2018 09:11:30 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[28-Mar-2018 12:11:50 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
+[29-Mar-2018 10:48:38 Africa/Lagos] PHP Fatal error:  Uncaught InvalidArgumentException: View [layouts.app] not found. in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php:137
+Stack trace:
+#0 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php(79): Illuminate\View\FileViewFinder->findInPaths('layouts.app', Array)
+#1 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Factory.php(128): Illuminate\View\FileViewFinder->find('layouts.app')
+#2 /home/pfifu2jdr044/public_html/authemanshop.com/storage/framework/views/2945b00f53d316a255fa1367002b8e945af822ee.php(33): Illuminate\View\Factory->make('layouts.app', Array)
+#3 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/pfifu2jdr...')
+#4 /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\E in /home/pfifu2jdr044/public_html/authemanshop.com/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 137
