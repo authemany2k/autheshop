@@ -172,6 +172,7 @@ class BaseRepository implements BaseRepositoryInterface
         string $includes = null,
         $perPage = 25
     ) : Scope {
+
         $manager = new ItemAndCollectionManager(new Manager);
 
         $page = app('request')->input('page', 1);
@@ -181,6 +182,40 @@ class BaseRepository implements BaseRepositoryInterface
         $queryParams = array_diff_key($_GET, array_flip(['page']));
         $paginator->appends($queryParams);
         $fractalCollection->setPaginator(new IlluminatePaginatorAdapter($paginator));
+
+        if (!is_null($includes)) {
+            $included = explode(',', $includes);
+            return $manager->createCollectionData(
+                $fractalCollection,
+                $included
+            );
+        } else {
+            return $manager->createCollectionData(
+                $fractalCollection
+            );
+        }
+    }
+
+    /**
+     * @param LengthAwarePaginator $paginator
+     * @param TransformerAbstract $transformer
+     * @param string $resourceKey
+     * @param string $includes
+     * @return Scope
+     */
+    public function processPaginatedResults(
+        LengthAwarePaginator $paginator,
+        TransformerAbstract $transformer,
+        string $resourceKey,
+        string $includes = null
+    ) : Scope
+    {
+        $items = $paginator->getCollection();
+
+        $resource = new FractalCollection($items, $transformer, $resourceKey);
+        $fractalCollection = $resource->setPaginator(new IlluminatePaginatorAdapter($paginator));
+
+        $manager = new ItemAndCollectionManager(new Manager);
 
         if (!is_null($includes)) {
             $included = explode(',', $includes);

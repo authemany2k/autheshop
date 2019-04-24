@@ -8,6 +8,87 @@
 
 ## CHANGELOG
 
+### v3.13.0 - 11-10-2018
+
+- Add missing visible option setter. [#83]
+- Add new fields, fix dateTime field format. [#84]
+
+#### Changed
+
+- Fix field and column computed title.
+
+From `created_at` with title `Created_At`
+To `created_at` with title `Created At`
+
+#### Fixed
+
+- Fix DateTime field.
+- Set format to `YYYY-MM-DD hh:mm a`.
+- Add `military()` setter to set the time to military format.
+
+#### Added New Fields
+
+- Boolean
+- Date
+- Time
+- Text
+- Number
+
+### v3.12.7 - 11-03-2018
+
+- Add checker if className is not yet set when adding class.
+
+### v3.12.6 - 11-03-2018
+
+- Fix setting of title.
+- Add title option for checkbox column.
+
+### v3.12.5 - 11-03-2018
+
+- Add name arg for computed column.
+
+### v3.12.4 - 11-03-2018
+
+- Fix options: Use 1 and 0 for true or false.
+
+### v3.12.3 - Skipped (My Bad)
+
+### v3.12.2 - 11-03-2018
+
+- Add missing field options setter and add docs link.
+
+### v3.12.1 - 11-03-2018
+
+- Add to method to append a class to the field.
+
+### v3.12.0 - 11-03-2018
+
+- Add editor options collection builder. [#80]
+
+### v3.11.0 - 11-02-2018
+
+- Add option to prepend action column. [#77]
+- Enhance column fluent builder. [#78]
+
+### v3.10.0 - 11-02-2018
+
+- Add support for DataTables Editor script generation. [#73]
+- Fix script template config key `datatables-html.script`.
+- Add method to `getAjaxUrl()`.
+
+### v3.9.0 - 11-02-2018
+
+- Add support for [built-in render helpers](https://datatables.net/manual/data/renderers#Built-in-helpers). [#71], credits to @Razoxane.
+
+### v3.8.1 - 10-30-2018
+
+- Fix the default name of index column to follow DT syntax. [#69], credits to @jaydons.
+- Fix missing periods. [#70], credits to @jaydons.
+
+### v3.8.0 - 09-05-2018
+
+- Add support for Laravel 5.7
+
 ### v3.7.2 - 07-06-2018
 
 - Fix callback check on empty values. [#62] Credits to @apreiml.
@@ -184,6 +265,15 @@
 [#59]: https://github.com/yajra/laravel-datatables-html/pull/59
 [#55]: https://github.com/yajra/laravel-datatables-html/pull/55
 [#62]: https://github.com/yajra/laravel-datatables-html/pull/62
+[#69]: https://github.com/yajra/laravel-datatables-html/pull/69
+[#70]: https://github.com/yajra/laravel-datatables-html/pull/70
+[#71]: https://github.com/yajra/laravel-datatables-html/pull/71
+[#73]: https://github.com/yajra/laravel-datatables-html/pull/73
+[#77]: https://github.com/yajra/laravel-datatables-html/pull/77
+[#78]: https://github.com/yajra/laravel-datatables-html/pull/78
+[#80]: https://github.com/yajra/laravel-datatables-html/pull/80
+[#83]: https://github.com/yajra/laravel-datatables-html/pull/83
+[#84]: https://github.com/yajra/laravel-datatables-html/pull/84
 
 [#3]: https://github.com/yajra/laravel-datatables-html/issues/3
 [#58]: https://github.com/yajra/laravel-datatables-html/issues/58

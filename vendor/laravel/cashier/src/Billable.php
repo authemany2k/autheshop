@@ -262,7 +262,15 @@ trait Billable
     public function findInvoice($id)
     {
         try {
-            return new Invoice($this, StripeInvoice::retrieve($id, $this->getStripeKey()));
+            $stripeInvoice = StripeInvoice::retrieve(
+                $id, $this->getStripeKey()
+            );
+
+            $stripeInvoice->lines = StripeInvoice::retrieve($id, $this->getStripeKey())
+                        ->lines
+                        ->all(['limit' => 1000]);
+
+            return new Invoice($this, $stripeInvoice);
         } catch (Exception $e) {
             //
         }

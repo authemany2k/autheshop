@@ -85,7 +85,7 @@ trait SearchableTrait
 
         // Default the threshold if no value was passed.
         if (is_null($threshold)) {
-            $threshold = $relevance_count / 4;
+            $threshold = $relevance_count / count($this->getColumns());
         }
 
         if (!empty($selects)) {
@@ -242,7 +242,12 @@ trait SearchableTrait
 
         $relevance_count=number_format($relevance_count,2,'.','');
 
-        $query->havingRaw("$comparator >= $relevance_count");
+        if ($this->getDatabaseDriver() == 'mysql') {
+            $bindings = [];
+        } else {
+            $bindings = $this->search_bindings;
+        }
+        $query->havingRaw("$comparator >= $relevance_count", $bindings);
         $query->orderBy('relevance', 'desc');
 
         // add bindings to postgres
@@ -339,4 +344,3 @@ trait SearchableTrait
         $original->withoutGlobalScopes()->setBindings($mergedBindings);
     }
 }
-

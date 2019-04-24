@@ -295,7 +295,9 @@ class Subscription extends Model
     {
         $subscription = $this->asStripeSubscription();
 
-        $subscription->cancel(['at_period_end' => true]);
+        $subscription->cancel_at_period_end = true;
+
+        $subscription->save();
 
         // If the user was on trial, we will set the grace period to end when the trial
         // would have ended. Otherwise, we'll retrieve the end of the billing period
@@ -353,7 +355,7 @@ class Subscription extends Model
         }
 
         $subscription = $this->asStripeSubscription();
-        
+
         $subscription->cancel_at_period_end = false;
 
         // To resume the subscription we need to set the plan parameter on the Stripe
@@ -375,6 +377,20 @@ class Subscription extends Model
         $this->fill(['ends_at' => null])->save();
 
         return $this;
+    }
+
+    /**
+     * Sync the tax percentage of the user to the subscription.
+     *
+     * @return void
+     */
+    public function syncTaxPercentage()
+    {
+        $subscription = $this->asStripeSubscription();
+
+        $subscription->tax_percent = $this->user->taxPercentage();
+
+        $subscription->save();
     }
 
     /**
