@@ -22,7 +22,7 @@
                 <td>{!!$product->specification!!}</td>
                 <td class="text-center">
                     @if(isset($product->cover))
-                        <img src="{{ asset("uploads/$product->cover") }}" alt="" class="img-responsive">
+                        <img style="height: 90px !important; width:72px !important" src="{{ asset("uploads/$product->cover") }}" alt="" class="img-responsive">
                     @else
                         -
                     @endif
